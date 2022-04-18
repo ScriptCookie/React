@@ -1,6 +1,6 @@
 # Name
 
-김정빈
+김정빈 김정빈 김정빈
 
 # Getting Started with Create React App
 
